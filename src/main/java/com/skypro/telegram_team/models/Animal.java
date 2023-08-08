@@ -14,7 +14,8 @@ import java.util.Objects;
 @Setter
 @Table(name = "animals")
 @Entity
-@Inheritance(strategy=InheritanceType.TABLE_PER_CLASS)
+@Inheritance(strategy=InheritanceType.SINGLE_TABLE)
+@DiscriminatorColumn(name = "type", discriminatorType = DiscriminatorType.STRING)
 public abstract class Animal {
     @Id
     @GeneratedValue(strategy = GenerationType.TABLE)
