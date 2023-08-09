@@ -158,5 +158,5 @@
 
 # Как запустить приложение
 - собрать jar файл с помощью команды *mvn clean install*
-- запустить приложение из папки target с помощью команды java -Dspring.datasource.username=*** -Dspring.datasource.password=*** -jar ads-0.0.1-SNAPSHOT.jar, где *** - имя пользователя и пароль к БД
+- запустить приложение из папки target с помощью команды java -Dspring.datasource.username=*** -Dspring.datasource.password=*** -jar telegram_team-0.0.1-SNAPSHOT.jar, где *** - имя пользователя и пароль к БД
   
