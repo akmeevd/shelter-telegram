@@ -1,4 +1,4 @@
-![shelter](https://beolin.club/uploads/posts/2022-08/1659807512_1-beolin-club-p-pomoshch-bezdomnim-zhivotnim-risunki-krasi-1.jpg)
+![shelter]([https://beolin.club/uploads/posts/2022-08/1659807512_1-beolin-club-p-pomoshch-bezdomnim-zhivotnim-risunki-krasi-1.jpg](https://flomaster.club/uploads/posts/2022-07/1657889863_7-flomaster-club-p-risunok-priyut-dlya-zhivotnikh-krasivo-10.jpg))
 # Telegram Shelter Bot
 
 Telegram bot for automation working to animal shelter
