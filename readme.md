@@ -1,4 +1,4 @@
-(https://cdn-icons-png.flaticon.com/512/3768/3768967.png)
+!(https://cdn-icons-png.flaticon.com/512/3768/3768967.png)
 # Telegram Shelter Bot
 
 Telegram bot for automation working to animal shelter
