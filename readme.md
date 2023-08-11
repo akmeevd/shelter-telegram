@@ -5,7 +5,6 @@ Telegram bot for automation working to animal shelter
 
 [link to project T3](https://skyengpublic.notion.site/4509dd17f5f840f1ba6807fe83aa9c15)
 
-[![Button Example]][https://github.com/MarkedDown/Buttons/blob/main/Types/Shield.md#]
 
 # How to run app
 - pack jar file by command ```mvn clean install```
