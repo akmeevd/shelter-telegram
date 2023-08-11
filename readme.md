@@ -2,7 +2,7 @@
 ![shelter](https://cdn-icons-png.flaticon.com/512/3768/3768967.png)
 
 Telegram bot for automation working to animal shelter
-[Button Icon]: https://img.shields.io/badge/Installation-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+
 [link to project T3](https://skyengpublic.notion.site/4509dd17f5f840f1ba6807fe83aa9c15)
 
 # How to run app
