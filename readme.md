@@ -1,12 +1,14 @@
-# Telegram Shelter Bot
+# **Telegram Shelter Bot**
 ![shelter](https://cdn-icons-png.flaticon.com/512/3768/3768967.png)
 
 Telegram bot for automation working to animal shelter
 
 [link to project T3](https://skyengpublic.notion.site/4509dd17f5f840f1ba6807fe83aa9c15)
 
+# **Stack:**
 ![Static Badge](https://img.shields.io/badge/java-spring-green)
-
+![Static Badge](https://img.shields.io/badge/postgresql-blue)
+![Static Badge](https://img.shields.io/badge/pengrad-telegram_bot_api-blue)
 
 
 # How to run app
