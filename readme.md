@@ -7,7 +7,9 @@ Telegram bot for automation working to animal shelter
 
 # **Stack:**
 ![Static Badge](https://img.shields.io/badge/java-spring-green)
+
 ![Static Badge](https://img.shields.io/badge/postgresql-blue)
+
 ![Static Badge](https://img.shields.io/badge/pengrad-telegram_bot_api-blue)
 
 
