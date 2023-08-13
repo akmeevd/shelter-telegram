@@ -12,6 +12,7 @@ Telegram bot for automation working to animal shelter
 # How to run app
 - pack jar file by command ```mvn clean install```
 - run app by command ```java -Dspring.datasource.username=*** -Dspring.datasource.password=*** -Dspring.telegram.bot.token=*** -jar telegram_team-0.0.1-SNAPSHOT.jar```, *** - username and password, telegrambot token
+- for app interface enter http://localhost:8080/swagger-ui/index.html
 
 ![swagger](src/test/resources/picture/swagger.png)
   
